@@ -1,0 +1,55 @@
+{
+    "dinosaurs": [
+      {
+        "id": 1,
+        "name": "Tyrannosaurus Rex",
+        "period": "Cretaceous",
+        "description": "One of the most famous carnivorous dinosaurs, known for its massive size and fearsome teeth.",
+        "length_meters": 12.3,
+        "height_meters": 4.6,
+        "weight_kilograms": 8000,
+        "image_url": "https://example.com/images/tyrannosaurus_rex.png"
+      },
+      {
+        "id": 2,
+        "name": "Triceratops",
+        "period": "Cretaceous",
+        "description": "A herbivorous dinosaur characterized by its three distinct facial horns and large bony frill.",
+        "length_meters": 9,
+        "height_meters": 3,
+        "weight_kilograms": 6000,
+        "image_url": "https://example.com/images/triceratops.png"
+      },
+      {
+        "id": 3,
+        "name": "Velociraptor",
+        "period": "Cretaceous",
+        "description": "A small, agile predator known for its speed and intelligence, with a sickle-shaped claw on each foot.",
+        "length_meters": 2.07,
+        "height_meters": 0.5,
+        "weight_kilograms": 15,
+        "image_url": "https://example.com/images/velociraptor.png"
+      },
+      {
+        "id": 4,
+        "name": "Brachiosaurus",
+        "period": "Jurassic",
+        "description": "A massive long-necked herbivore known for its large body and long front legs, which gave it a giraffe-like stance.",
+        "length_meters": 22,
+        "height_meters": 12,
+        "weight_kilograms": 56000,
+        "image_url": "https://example.com/images/brachiosaurus.png"
+      },
+      {
+        "id": 5,
+        "name": "Stegosaurus",
+        "period": "Jurassic",
+        "description": "Recognizable for its row of large, bony plates along its back and its spiked tail used for defense.",
+        "length_meters": 9,
+        "height_meters": 4,
+        "weight_kilograms": 2500,
+        "image_url": "https://example.com/images/stegosaurus.png"
+      }
+    ]
+  }
+  
